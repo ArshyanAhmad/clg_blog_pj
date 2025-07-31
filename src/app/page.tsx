@@ -23,11 +23,11 @@ export default function Home() {
       {/* Three Cards */}
       <AllCards />
 
-      <hr className="bg-gray-600 h-[0.4px] border-none " />
 
       <FeaturesBanner text="Unlock the Power of" title="FutureTech Features" />
 
       <hr className="bg-gray-600 h-[0.4px] border-none " />
+
 
       <Futures
         cards={[
